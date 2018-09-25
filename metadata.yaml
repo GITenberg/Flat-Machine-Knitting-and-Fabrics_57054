@@ -1,11 +1,16 @@
 _repo: Flat-Machine-Knitting-and-Fabrics_57054
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57054-h/images/cover.jpg
 creator:
   author:
     agent_name: Buck, H. D.
     gutenberg_agent_id: '49169'
     url: http://www.gutenberg.org/2009/agents/49169
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57054#Flat-Machine-Knitting-and-Fabrics
 gutenberg_issued: '2018-04-26'
 gutenberg_type: Text
 identifiers:
